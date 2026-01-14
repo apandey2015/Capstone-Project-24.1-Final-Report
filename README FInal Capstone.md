@@ -64,7 +64,7 @@ This study applied multiple regression and classification models to forecast ele
 Repeat the analysis for major markets (e.g., US, China, EU).
 
 **Outline of the project**
----
+----
 
 Initial
 ---
